@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aendir</h1>
-<h3 align="center">A passionate frontend developer from Aendir Development</h3>
+<h3 align="center">I am the founder of Aendir Development and a passionate frontend developer.</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.imgur.com/2IqCWqw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aendirr&label=Profile%20views&color=0e75b6&style=flat" alt="aendirr" /> </p>
