@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate
 
-- 💬 Ask me about: **I live in Turkey. I have had a passion for programming since I was a kid. I wanted to improve myself in this field. That's why I started with MTA first and then continued with fivem. I have a game project that I made myself. I'm still working on it.**
+- 💬 Ask me about: **I live in Malta. I have had a passion for programming since I was a kid. I wanted to improve myself in this field. That's why I started with MTA first and then continued with fivem. I have a game project that I made myself. I'm still working on it.**
 
 - 📫 How to reach me **iletisimaendirr@gmail.com**
 
